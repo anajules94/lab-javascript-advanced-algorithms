@@ -1,0 +1,43 @@
+.section {
+  width: 321px;
+  height: 619px;
+}
+
+.blueButton {
+background-color: blue;
+color: white;
+width: 270px;
+height: 35px;
+border-radius: 3px;
+border-color: blue;
+margin-top: 10px;
+}
+.redButton {
+  background-color: red;
+  color: white;
+  width: 270px;
+  height: 35px;
+  border-radius: 3px;
+  border-color: red;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.red{
+  background-color: red;
+}
+
+ .stack {
+   display: flex;
+   flex-direction: column;
+   width: 321px;
+   height: 619px;
+}
+
+.stackElement{
+  background-color: grey;
+  width: 270px;
+  height: 35px;
+  border-color: black;
+  margin-top: 5px;
+};
